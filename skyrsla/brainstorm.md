@@ -2,4 +2,5 @@
 Hér skráið þið allar hugmyndir um verkefni sem þið fáið, munið að engin hugmynd er vitlaus.  
 Þegar þið eruð komin með 10 eða fleiri hugmyndir skulið þið velja þá sem ykkur líst best á. 
  
-- Vélmenni tekur við rusl og kastar í ruslið. 
+- Vélmennið tekur við rusl og kastar í ruslið. 
+- Vélmennið eltir þig.
