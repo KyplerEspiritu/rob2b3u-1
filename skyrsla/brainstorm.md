@@ -4,4 +4,4 @@ Hér skráið þið allar hugmyndir um verkefni sem þið fáið, munið að eng
  
 - Vélmennið tekur við rusl og kastar í ruslið. 
 - Vélmennið eltir þig.
-- Vélmennið með switch.
+- Vélmennið er með switch.
