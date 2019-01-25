@@ -9,4 +9,6 @@ Við Ætlum að gera robot sem kastar rusl í ruslatunnu. Á meðan þú ert í 
 
 Næsta project er að láta robot fara í "sound mode". Þegar það er slökkt á ljós (eða ýtt á takka), þá getur robot annaðhvort farið í "party" mode eða "sleep" mode. Í party mode, kveikir hann á öllum LED (kannski RGB LED með rainbow litum), og spilar partý tónlist. Hann dansar líka. Í sleep mode, slekkur hann á öllum LED'dum og spilar rólega tónlist. Það á líka að vera hægt að stilla vekjaraklukku fyrir morgundaginn.
 
-### Meiri lýsing kemur seinna....
+Við viljum líka láta vélmennið elta ljós. Við verðum með vasaljós eða notum ljósið í símanum og notum það til að láta vélmennið elta okkur. Þetta gæti verið vandamál út af við utlum að henda helling af ljósum af öllum litum á vélmennið fyrir "party" mode þannig við utlum að reyna láta vélmennið elta skærsta ljósið. Erum ekki alveg vissir hvort það er hægt en utlum að prófa.
+
+Robotinn á einnig að geta leikt sig við notandan. Við utlum að vera með switch á robotinn þannig þegar þú færir það, mun vélmennið færa það til baka. Vélmennið á að vera með helling af hegðunnir til að gefa vélmennið smá líf.
