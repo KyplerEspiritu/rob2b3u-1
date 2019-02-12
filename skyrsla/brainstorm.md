@@ -6,6 +6,5 @@ Hér skráið þið allar hugmyndir um verkefni sem þið fáið, munið að eng
 - Vélmennið eltir þig. (HARD)
 - Vélmennið er með switch. (NORMAL)
 - Vélmennið getur náð í flösku fyrir þig. (EASY)
-- Vélmennið getur verið í sleep mode. Í sleep mode getur vélmennið að spila róleg lög og getur notað sem alarm. (NORMAL)
-
-
+- Vélmennið getur verið í sleep mode. Sleep mode þýðir að robotinn blikki hvít led seríur rólega. (NORMAL)
+- Vélmennið er með party mode. Party mode þýðir að robotinn blikki marglita led seríur fljótlega. (NORMAL)
