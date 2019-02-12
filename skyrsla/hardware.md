@@ -11,3 +11,6 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
   |   | MQ7 | 5V | 33ohm |
   | Breadboard |   |   |   | 
   |   | Vex 239 motor | 7,2V |   |
+  |   | 40 led seríur | óviss |   |
+  |   | 10 led seríur | óviss |   |
+  
