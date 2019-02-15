@@ -20,3 +20,17 @@ Robotinn fer svo í byrjunar staðinn sinn(hjá okkur)
 13. Robotinn keyrir n metra áfram
 14. Robotinn tekur 90° til hægri
 15. Robotinn keyrir n metra áfram
+
+## Skipanir fyrir party og sleep mode 
+
+Party mode
+1. Robotinn fer í party mode þegar þú ýtir á X á fjarstýringunni
+2. Relayið fyrir marglitu ljósin fara í gang og byrja blikka hratt
+3. Robotinn snýr sér í hringi
+4. Robotinn blastar tónlist (optional)
+
+Sleep mode 
+1. Robotinn fer í sleep mode þegar þú ýtir á Y á fjarstýringunni
+2. Robotinn verður kyrr 
+3. Relayið fyrir hvítu ljósin fara í gang og byrja blikka hægt
+4. Robotinn spilar rólega tónlist (optional)
