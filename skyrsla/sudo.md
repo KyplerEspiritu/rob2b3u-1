@@ -14,6 +14,7 @@ Robotinn fer að ruslinu
 9. Robotinn opnar höndina og sleppir ruslið
 
 Robotinn fer svo í byrjunar staðinn sinn(hjá okkur)
+
 10. Robotinn tekur svo 180° beygju
 11. Robotinn keyrir n metra áfram
 12. Robotinn tekur 90° beygju til vinstri
