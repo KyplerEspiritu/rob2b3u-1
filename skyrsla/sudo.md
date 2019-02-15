@@ -2,6 +2,7 @@
 
 ## Skipanir fyrir að henda rusl í ruslatunnu 
 
+Robotinn fer að ruslinu
 1. Robotinn byrjar hjá þér með arminn sinn uppi í loft
 2. Robotinn lokar höndina eftir að þú réttir honum rusl
 3. Robotinn tekur 180° beygju
@@ -13,7 +14,6 @@
 9. Robotinn opnar höndina og sleppir ruslið
 
 Robotinn fer svo í byrjunar staðinn sinn(hjá okkur)
-
 10. Robotinn tekur svo 180° beygju
 11. Robotinn keyrir n metra áfram
 12. Robotinn tekur 90° beygju til vinstri
