@@ -7,7 +7,6 @@ Hérna er allt sem verður notað í vélmenninu:
 
 
 ## Electronics
-Heilinn á vélmenninu sem heldur yfir öll forrit
 |(1) V5 Robot Brain|
 |    ---       |
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/o/robotbrain_1.jpg" width="25%">
