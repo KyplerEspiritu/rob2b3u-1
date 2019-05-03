@@ -37,24 +37,28 @@ Snúra sem hlaðar batteríið
 
 |(4) V5 Smart Motors|
 |    ---       |
-Motorar 
+Mótorar fyrir vélmennið
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/motor_1.jpg" width="25%">
 
 
 |(2) Bumper Switch v2|
 |    ---       |
+Takki á vélmenninu
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/7/276-4858.jpg" width="25%">
 
 
 ## V5 Smart Cables
 |(1) Long Cables (900mm)|
 |    ---       |
+900mm snúra
 
 |(1) Medium Cables (600mm)|
 |    ---       |
+600mm snúra
 
 |(3)Short Cables (300mm)|
 |    ---       |
+300mm snúra
 
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/v/5/v5-long-cables.jpg" width="25%">
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/v/5/v5-short-cable.jpg" width="25%">
@@ -69,6 +73,7 @@ Motorar
 ## Extras
 |(1) Vision Sensor|
 |    ---       |
+'Augað' á vélmennið. Þetta er myndvél sem getur detect-að hluti fyrir framan sig
 <img src="./img/visionsensor.jpg" width="25%">
 
 
