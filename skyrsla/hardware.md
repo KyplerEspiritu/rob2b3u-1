@@ -13,6 +13,7 @@ Hérna er allt sem verður notað í vélmenninu:
 
 |(1) V5 Controller|
 |    ---       |
+Fjarstýring sem maður notar til að stýra vélmennið t.d. stjórna mótora
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/controller_1_1.jpg" width="25%">
 
 
