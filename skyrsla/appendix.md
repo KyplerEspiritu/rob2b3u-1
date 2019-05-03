@@ -11,7 +11,7 @@ vex::motor ArmMotor = vex::motor(vex::PORT19);
 vex::gyro Gyro = vex::gyro(Brain.ThreeWirePort.A);
 ```
 
-## main.cpp file
+## main.cpp file fyrir HENDA Í RUSL
 ```
 void turnLeft(int degrees){
     Gyro.startCalibration();
@@ -107,4 +107,55 @@ int main() {
     driveForward(100);
  
 }
+```
+
+## main.cpp file fyrir PARTY MODE
+```
+int moveInCircle(){
+	LeftMotor.setVelocity(80, vex::velocityUnits::pct);
+    	RightMotor.setVelocity(80,vex::velocityUnits::pct);
+
+    	LeftMotor.spin(vex::directionType::fwd);
+    	RightMotor.spin(vex::directionType::rev);
+    	vex::task::sleep(3000); 
+    
+    	LeftMotor.stop();
+    	RightMotor.stop();
+  	vex::task::sleep(1000);
+    
+    	LeftMotor.spin(vex::directionType::rev); 
+    	RightMotor.spin(vex::directionType::fwd); 
+    	vex::task::sleep(3000);
+    
+    	//Stop the motors
+    	LeftMotor.stop();
+    	RightMotor.stop();
+    vex::task::sleep(1000);
+    return 0;
+}
+
+int moveArm(){
+	int armSpeedPCT = 50;
+    	
+    while(1){
+        ArmMotor.spin(vex::directionType::fwd, armSpeedPCT, vex::velocityUnits::pct);
+        vex::task::sleep(1000);
+        ArmMotor.spin(vex::directionType::rev, armSpeedPCT, vex::velocityUnits::pct);
+        vex::task::sleep(1000);
+    }    
+        
+    return 0;
+}
+
+int main() {
+    
+    vex::task t1(moveInCircle);
+    vex::task t2(moveArm);
+
+  // Both function are now running an different thread
+  // We need to wait for them to finish
+
+    
+}
+
 ```
