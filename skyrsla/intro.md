@@ -9,4 +9,5 @@ Við viljum líka láta vélmennið elta ljós. Við verðum með vasaljós eða
 
 ## MYNDBÖND
 [HENDA Í RUSL](https://www.youtube.com/watch?v=vok3U_i_rZY&feature=youtu.be&fbclid=IwAR0N1Cy7yQFtZSvkBE_pHrWzQr4CZmOzP_uwNDjV_7gMreSuyhA4b2Br6Cs) 
+//
 [PARTY MODE (án seríur)](https://www.youtube.com/watch?v=I3TG8PDzLSQ&feature=youtu.be&fbclid=IwAR2B7xU3YAqLWLMTfEGnZUBLIFZwCF5gZwGoT8Cmakz3J9b0z5dNLz0hkJw)
