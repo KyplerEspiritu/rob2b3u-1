@@ -67,6 +67,7 @@ Takki á vélmenninu
 ## Charging Cable
 |(1) USB A to Micro Cable|
 |    ---       |
+Snúra sem tengir heilann við tölvuna
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/2/228-2785.jpg" width="25%">
 
 
