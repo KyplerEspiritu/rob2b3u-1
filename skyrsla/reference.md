@@ -1,3 +1,10 @@
 # Heimildaskrá
-Hér skal gera heimildaskrá þ.e þið skráið niður allar vefsíður sem þið notið til að afla ykkur upplýsinga
-til að leysa verkefnið. Textan fyrir ofan eyðið þið og setjið ykkar í staðin
+https://help.vex.com/article/68-vcs-example-program-vex-c-v5-clawbot-driving-forward-and-backward
+
+https://help.vex.com/article/82-vcs-example-program-vex-c-v5-clawbot-opening-and-closing-the-claw
+
+https://help.vex.com/article/111-vcs-example-program-with-controller-c-tank-drive
+
+https://help.vex.com/article/110-vex-example-program-with-controller-c-arcade-drive
+
+https://help.vex.com/article/112-vcs-example-program-with-controller-c-claw-and-arm
