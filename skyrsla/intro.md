@@ -6,3 +6,7 @@ Næsta project er að láta robot fara í "sound mode". Þegar það er slökkt 
 Robotinn á einnig að geta leikt sig við notandan. Við utlum að vera með switch á robotinn þannig þegar þú færir það, mun vélmennið færa það til baka. Vélmennið á að vera með helling af hegðunnir til að gefa vélmennið smá líf. Til þess að leysa þetta þurfum við að nota auka mótor. Það er mjög líklegt að við munum nota vex mótor og vex encoder sem við notuðum í fyrra. Við munum notum encodera til þess að sjá hvort það er búið að switcha switchinn. Þegar notandinn er búinn að ýta switchinn áfram mun vélmennið ýta það til baka.
 
 Við viljum líka láta vélmennið elta ljós. Við verðum með vasaljós eða notum ljósið í símanum og notum það til að láta vélmennið elta okkur. Þetta gæti verið vandamál út af við utlum að henda helling af ljósum af öllum litum á vélmennið fyrir "party" mode þannig við utlum að reyna láta vélmennið elta skærsta ljósið. Erum ekki alveg vissir hvort það er hægt en utlum að prófa. Þetta er örugglega erfiðasta verkefnið til að leysa því við það er ólíklegt að það munni virka og þótt það myndi virka erum við ekki vissir hvort það væri consistent. Við utlum samt að reyna.
+
+## MYNDBÖND
+[HENDA Í RUSL](https://www.youtube.com/watch?v=vok3U_i_rZY&feature=youtu.be&fbclid=IwAR0N1Cy7yQFtZSvkBE_pHrWzQr4CZmOzP_uwNDjV_7gMreSuyhA4b2Br6Cs) 
+[PARTY MODE (án seríur)](https://www.youtube.com/watch?v=I3TG8PDzLSQ&feature=youtu.be&fbclid=IwAR2B7xU3YAqLWLMTfEGnZUBLIFZwCF5gZwGoT8Cmakz3J9b0z5dNLz0hkJw)
