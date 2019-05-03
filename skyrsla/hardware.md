@@ -20,20 +20,24 @@ Fjarstýring sem maður notar til að stýra vélmennið t.d. stjórna mótora
 
 |(1) V5 Robot Radio|
 |    ---       |
+Þetta er loftnetið hjá vélmenninu til þess að tengjast við fjarstýringuna þráðlaust
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/a/radio.jpg" width="25%">
 
 |(1) V5 Robot Battery Li-Ion 1100mAh|
 |    ---       |
+Batteríið sem gefur vélmennið rafmagn
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/battery.jpg" width="25%">
 
 
 |(1) V5 Robot Battery Cable & Charger|
 |    ---       |
+Snúra sem hlaðar batteríið
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/5/v5-charger_1.jpg" width="25%">
 
 
 |(4) V5 Smart Motors|
 |    ---       |
+Motorar 
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/motor_1.jpg" width="25%">
 
 
