@@ -10,10 +10,12 @@ Hérna er allt sem verður notað í vélmenninu:
 |(1) V5 Robot Brain|
 |    ---       |
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/o/robotbrain_1.jpg" width="25%">
+Heilinn á vélmenninu sem heldur yfir öll forrit
 
 |(1) V5 Controller|
 |    ---       |
 <img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/controller_1_1.jpg" width="25%">
+Fjarstýring sem maður notar til að stýra vélmennið t.d. stjórna mótora
 
 |(1) V5 Robot Radio|
 |    ---       |
