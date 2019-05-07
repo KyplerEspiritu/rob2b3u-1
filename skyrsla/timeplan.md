@@ -1,3 +1,3 @@
 ## Verkáæltun
 
-![Tímaáætlun](img/gant.png)
+![Tímaáætlun](img/verkaetlun.pdf)
